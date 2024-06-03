@@ -3,9 +3,7 @@ This repo will be for a C# API with MySQL Database.
 
 # Database
 Working with this repo will require MySQL Workbench to work with the DB on localhost
-## To-Do
-1. Push DB to AWS
-2. Create cred store in AWS 
+
 
 # Creating DB Connection in MySQL Workbench
 1. Open Workbench
@@ -20,3 +18,9 @@ Working with this repo will require MySQL Workbench to work with the DB on local
 ~~~
 dotnet run
 ~~~
+
+# To-Do
+1. Fix "PUT" call for Users table -> currently getting a 400 bad request
+2. Push DB to AWS
+3. Create cred store in AWS
+4. Add new tables to test
