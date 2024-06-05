@@ -1,5 +1,5 @@
 # test-API
-This repo will be for a C# API with MySQL Database. 
+This is an C# API to show various information about playable characters from the MMORPG "Maplestory"
 
 # Database
 Working with this repo will require MySQL Workbench to work with the DB on localhost
