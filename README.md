@@ -1,4 +1,4 @@
-# test-API
+# Maplestory-API
 This is an C# API to show various information about playable characters from the MMORPG "Maplestory". End goal for this project is to have this website that users can view to get the latest information about the game (Jobs, JobMaxLevel, EndGameBosses etc). Might extend functionality to allow users to generate their own characters (Name, job etc) with a pixel sprite.
 
 # Database
