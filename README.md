@@ -24,3 +24,4 @@ dotnet run
 2. Push DB to AWS
 3. Create cred store in AWS
 4. Add new tables to test
+5. Reevalute whether JWT authentication is most suitable VS oAufh
