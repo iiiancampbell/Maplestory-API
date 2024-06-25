@@ -25,3 +25,7 @@ dotnet run
 3. Create cred store in AWS
 4. Add new tables to test
 5. Reevalute whether JWT authentication is most suitable VS oAufh
+
+# JWT vs oAuth
+- **Use JWT** when you need simple, stateless authentication for your applications. JWT is excellent for single-page applications (SPA), mobile applications, and microservices where you need to validate tokens quickly and efficiently without maintaining server-side state.
+- **Use OAuth** when you need to delegate access to third-party applications, require fine-grained access control, or need to provide secure API access. OAuth is ideal for more complex scenarios where robust security and permission management are required
